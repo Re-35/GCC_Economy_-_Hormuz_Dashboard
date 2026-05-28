@@ -16,29 +16,47 @@ Finally discover about the Economy of GCC and find relationships between it & th
 
 - Page (1):
 <br>
-![page 1](/img/chart1.png)
+
+![page 1](img/chart1.png)
+
 <br>
-![page 1 with small chart](/img/chart1_2.png)
+
+![page 1 with small chart](img/chart1_2.png)
+
 <br><br>
+
 - Page (2):
+- 
 <br>
-![page 2](/img/chart2.png)
+
+![page 2](img/chart2.png)
+
 <br>
-![page 2 with small chart](/img/chart2_2.png)
+
+![page 2 with small chart](img/chart2_2.png)
+
 <br><br>
+
 - Page (3):
+  
 <br>
-![page 3](/img/chart3.png)
+
+![page 3](img/chart3.png)
+
 <br>
-![page 3 with small chart](/img/chart3_2.png)
+
+![page 3 with small chart](img/chart3_2.png)
+
 <br><br>
 
 ---
 
 <br>
+
 # Tools Used:
 
 <br>
+
 - **Kaggel** - Get dataset.
 - **Googel Colab** - Clean datasets & quick EDA.
 - **Power BI** - Create the dashboard.
