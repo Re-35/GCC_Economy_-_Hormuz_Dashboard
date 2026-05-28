@@ -26,7 +26,7 @@ Finally discover about the Economy of GCC and find relationships between it & th
 <br><br>
 
 - Page (2):
-- 
+
 <br>
 
 ![page 2](img/chart2.png)
